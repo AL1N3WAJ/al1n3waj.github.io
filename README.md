@@ -8,7 +8,7 @@ A cinematic, high-performance personal portfolio built with **Astro + Tailwind C
 
 ## 🚀 Live Website
 
-👉 https://AL1N3WAJ.github.io/alinewaj/
+👉 https://al1n3waj.github.io/
 
 ---
 
