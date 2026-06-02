@@ -3,8 +3,7 @@ import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
   site: 'https://al1n3waj.github.io',
-  base: '/',                    
+  base: '/',
   integrations: [tailwind()],
-  output: 'static',
-  prefetch: true
+  output: 'static'
 });
